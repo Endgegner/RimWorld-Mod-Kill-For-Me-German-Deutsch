@@ -38,16 +38,16 @@
 	<KFM_ForceAllocateAfterDeallocateRegroupOK>{0} befindet sich nicht mehr im Rudelmodus und verwendet jetzt {1} als Ziel</KFM_ForceAllocateAfterDeallocateRegroupOK>
 	<KFM_PackAvailableAllocateAfterRegroupMode>Weisen Sie {0} zu (-Im Rudelmodus {1} verfügbare Tiere)</KFM_PackAvailableAllocateAfterRegroupMode>
 
-	<KFM_PackColorblack>Rudelgruppe Schwarz</KFM_PackColorblack>
-	<KFM_PackColorblue>Rudelgruppe Blau</KFM_PackColorblue>
-	<KFM_PackColorgreen>Rudelgruppe Grün</KFM_PackColorgreen>
-	<KFM_PackColorpink>Rudelgruppe Pink</KFM_PackColorpink>
-	<KFM_PackColorred>Rudelgruppe Rot</KFM_PackColorred>
-	<KFM_PackColoryellow>Rudelgruppe Gelb</KFM_PackColoryellow>
-	<KFM_PackColorwhite>Rudelgruppe Weiß</KFM_PackColorwhite>
-	<KFM_PackColorgray>Rudelgruppe Grau</KFM_PackColorgray>
-	<KFM_PackColororange>Rudelgruppe Orange</KFM_PackColororange>
-	<KFM_PackColorpurple>Rudelgruppe Violett</KFM_PackColorpurple>
+	<KFM_PackColorblack>Rudel Schwarz</KFM_PackColorblack>
+	<KFM_PackColorblue>Rudel Blau</KFM_PackColorblue>
+	<KFM_PackColorgreen>Rudel Grün</KFM_PackColorgreen>
+	<KFM_PackColorpink>Rudel Pink</KFM_PackColorpink>
+	<KFM_PackColorred>Rudel Rot</KFM_PackColorred>
+	<KFM_PackColoryellow>Rudel Gelb</KFM_PackColoryellow>
+	<KFM_PackColorwhite>Rudel Weiß</KFM_PackColorwhite>
+	<KFM_PackColorgray>Rudel Grau</KFM_PackColorgray>
+	<KFM_PackColororange>Rudel Orange</KFM_PackColororange>
+	<KFM_PackColorpurple>Rudel Violett</KFM_PackColorpurple>
 
 	<KFM_blackColorLib>Schwarz</KFM_blackColorLib>
 	<KFM_blueColorLib>Blau</KFM_blueColorLib>
