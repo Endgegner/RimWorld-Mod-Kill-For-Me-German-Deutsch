@@ -90,7 +90,7 @@
 
 	<KFM_SettingsBonusKingElectionMinHour>Minimale Zeit vor dem Erstellen des neuen Rudelführers ({0})</KFM_SettingsBonusKingElectionMinHour>
 	<KFM_SettingsBonusKingElectionMaxHour>Maximale Zeit bis zur Erstellung des neuen Rudelführers ({0})</KFM_SettingsBonusKingElectionMaxHour>
-	<KFM_SettingsBonusKingElectionMinMembers>Minimale Anzahl von Tieren in einem Rudel, die vor dem Erstellen eines Rudelführers ({0} -Mitglieder) zulässig sind</KFM_SettingsBonusKingElectionMinMembers>
+	<KFM_SettingsBonusKingElectionMinMembers>Minimale Anzahl von Tieren in einem Rudel, die vor dem Erstellen eines Rudelführers ({0} Mitglieder) zulässig sind</KFM_SettingsBonusKingElectionMinMembers>
 	<KFM_SettingsAllowGroupModeOnlyIfKing>Erlaube den Gruppierungsmodus für Rudel nur, wenn sich ein Rudelführer darin befindet</KFM_SettingsAllowGroupModeOnlyIfKing>
 	<KFM_SettingsDisallowPackGroupMode>Deaktivieren Sie den Gruppierungsmodus für Rudel unbedingt</KFM_SettingsDisallowPackGroupMode>
 	<KFM_SettingsBonusAttackSection>Rudel-Einstellungen für Bonusangriffe</KFM_SettingsBonusAttackSection>
